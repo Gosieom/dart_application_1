@@ -263,7 +263,7 @@ void multiplicationTable() {
 void main() {
   // checkSquare();
   // gradingSystem();
-   attendanceCheck();
+  // attendanceCheck();
   // reverseNumber();
   // temperatureConversion();
   // checkNumberType();
